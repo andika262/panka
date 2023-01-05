@@ -1,1 +1,1 @@
-web: gunicorn utspbo.wsgi
+web: gunicorn utspbo.wsgi --log--file -
